@@ -4,7 +4,7 @@ package io.blackpebble;
  * Hello world!
  *
  */
-public class TopTrackerInvoicer
+public class App
 {
     public static void main( String[] args )
     {
